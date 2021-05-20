@@ -1,0 +1,7 @@
+H:\C# pra\Arraydeclaration\Arraydeclaration\obj\Debug\Arraydeclaration.csprojAssemblyReference.cache
+H:\C# pra\Arraydeclaration\Arraydeclaration\obj\Debug\Arraydeclaration.csproj.CoreCompileInputs.cache
+H:\C# pra\Arraydeclaration\Arraydeclaration\bin\Debug\Arraydeclaration.exe.config
+H:\C# pra\Arraydeclaration\Arraydeclaration\bin\Debug\Arraydeclaration.exe
+H:\C# pra\Arraydeclaration\Arraydeclaration\bin\Debug\Arraydeclaration.pdb
+H:\C# pra\Arraydeclaration\Arraydeclaration\obj\Debug\Arraydeclaration.exe
+H:\C# pra\Arraydeclaration\Arraydeclaration\obj\Debug\Arraydeclaration.pdb
